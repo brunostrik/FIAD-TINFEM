@@ -1,0 +1,15 @@
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\bin\Debug\netcoreapp3.1\FIAD TINFEM.exe
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\bin\Debug\netcoreapp3.1\FIAD TINFEM.deps.json
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\bin\Debug\netcoreapp3.1\FIAD TINFEM.runtimeconfig.json
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\bin\Debug\netcoreapp3.1\FIAD TINFEM.runtimeconfig.dev.json
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\bin\Debug\netcoreapp3.1\FIAD TINFEM.dll
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\bin\Debug\netcoreapp3.1\FIAD TINFEM.pdb
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\obj\Debug\netcoreapp3.1\FIAD TINFEM.csprojAssemblyReference.cache
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\obj\Debug\netcoreapp3.1\FIAD_TINFEM.Form1.resources
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\obj\Debug\netcoreapp3.1\FIAD TINFEM.csproj.GenerateResource.cache
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\obj\Debug\netcoreapp3.1\FIAD TINFEM.AssemblyInfoInputs.cache
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\obj\Debug\netcoreapp3.1\FIAD TINFEM.AssemblyInfo.cs
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\obj\Debug\netcoreapp3.1\FIAD TINFEM.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\obj\Debug\netcoreapp3.1\FIAD TINFEM.dll
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\obj\Debug\netcoreapp3.1\FIAD TINFEM.pdb
+C:\Users\Aluno_0701\source\repos\FIAD TINFEM\FIAD TINFEM\obj\Debug\netcoreapp3.1\FIAD TINFEM.genruntimeconfig.cache
